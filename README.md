@@ -29,8 +29,8 @@ To run the application locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ocr-web-app.git
-cd ocr-web-app
+git clone https://github.com/manasvivm/WEB-OCR.git
+cd WEB-OCR
 ```
 ### 2. Install Dependencies
 
@@ -54,8 +54,8 @@ This will open the application in your default web browser. You can upload an im
   - Clone the newly created Space to your local machine:
  
 ```bash
-git clone https://huggingface.co/spaces/your-username/ocr-web-app-space
-cd ocr-web-app-space
+git clone https://huggingface.co/spaces/mannywho/webocr
+cd webocr
 ```
 Copy your application files to the Space repository.
 Push the files to Hugging Face:
