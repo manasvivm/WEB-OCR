@@ -1,5 +1,5 @@
 
-# OCR Web Application
+# OCR Web Application <u>[Visit the App](https://huggingface.co/spaces/mannywho/webocr)</u>
 
 This is a web application built using Streamlit that extracts text from images containing English and Hindi text. The application supports two OCR methods: **EasyOCR** and **Colpali-Qwen**. It allows users to upload an image, extract text, and search for keywords in the extracted text, highlighting them.
 
