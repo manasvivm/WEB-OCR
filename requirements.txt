@@ -1,0 +1,9 @@
+streamlit
+Pillow
+torch
+transformers
+easyocr
+numpy
+qwen-vl-utils
+byaldi
+opencv-python-headless
