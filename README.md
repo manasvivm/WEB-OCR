@@ -40,8 +40,7 @@ pip install -r requirements.txt
 ### 3. Run the Application Locally
 
 ```bash
-git clone https://github.com/your-username/ocr-web-app.git
-cd ocr-web-app
+streamlit run app.py
 ```
 
 This will open the application in your default web browser. You can upload an image containing text and choose between EasyOCR or Colpali-Qwen for text extraction.
